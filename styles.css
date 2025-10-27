@@ -40,7 +40,11 @@ h1 {
     font-size: 3em;
     color:rgb(10, 92, 84);
 }
-
+/* Medium heading size for subtitle */
+h1 {
+    font-size: 2em;
+    color:rgb(10, 92, 84);
+}
 /* Medium heading size with gray color for section headers */
 h3 {
     font-size: 1.75em;
